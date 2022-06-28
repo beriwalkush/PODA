@@ -1,0 +1,116 @@
+#title{
+    background-color: #D3CEDF;
+    text-align: center;
+    align-items: center;
+    color:#fff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3em;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight:bold;
+}
+h2{
+    font-family: 'Ubuntu', sans-serif; 
+    font-weight: 400;
+    font-size:1.7rem;
+    line-height: 1.5;
+    padding:1%;
+}
+/* h3{
+    align-items: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:bold;
+    font-size: 100px;
+    width: 70%;
+    margin-right: 0%;
+} */
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+.navbar-brand{
+    align-items: center;
+}
+.nav-item{
+    font-size: 2rem;
+    margin:10px 20px 10px 20px;
+    font-weight: 900;
+}
+#features{
+    margin:150px 0 150px 0;
+}
+.profiledisplay{
+    background-color: #D3CEDF;
+    color:#D3CEDF;
+    border: none;
+    padding: 30px none 30px none;
+}
+
+.highlightes{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    align-items: center;
+    font-size:xx-large;
+}
+.feature-highlight{
+    text-align: center;
+}
+.para-highlightes{
+  color:Gray;
+  font-size:20px;
+  text-align: center;
+  padding: 5%;
+}
+#testimonials{
+    padding: 7% 15%;
+    background-color: #D3CEDF;
+    text-align: center;
+    color:#fff;
+}
+.testimonialimage{
+    width:35%;
+    border-radius:100%;
+    margin:30px
+}
+#press{
+    background-color:#D3CEDF ;
+    align-items: center;
+    text-align: center;
+}
+.pressimage{
+    width: 13%;
+    padding:2rem;
+    margin:40px;
+}
+#pricing{
+    background-color:#D3CEDF ;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    margin: none 10px 30px 10px;
+}
+#cta{
+    background-color:#D3CEDF ;
+    color:#fff;
+    padding:7% 15% 7% 15%;
+    text-align: center;
+}
+.ctaheading{
+    text-align: center;
+    font-size: 3.5rem;
+    line-height: 2;
+
+}
+#footer{
+    position:relative;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    padding: 2% 0 2% 0;
+
+}
